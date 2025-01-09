@@ -1,0 +1,23 @@
+div {
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+
+div {
+    border-style: dotted dashed solid double;
+    border-width: 5px 10px 15px 20px;
+    border-color: aqua;
+}
+
+div {   
+    padding: 10px 100px 40px 5px;
+}
+
+div {
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: #8D8DAA;
+}
+
+h1, h2, h3{
+    color: #DFDFDE;
+    background-color: black;
+    font-size: smaller;
+}
+
+span {
+    color: white;
+}
+
+#list2 {
+    color: #F56D91
+}
+
+.mark {
+    background-color: aquamarine
+}
